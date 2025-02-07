@@ -1,0 +1,68 @@
+{
+    "name": "News & Articles",
+    "items": [
+        {
+            "id": 1,
+            "thumbnail": "images/blogs/blog-1.jpg",
+            "date": "October 19, 2024",
+            "title": "Turns out semi colon less style is easier and safer in TS because most",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "link": "#",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "thumbnail": "images/blogs/blog-2.jpg",
+            "date": "October 19, 2024",
+            "title": "Turns out semi colon less style is easier and safer in TS because most",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "link": "#",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "thumbnail": "images/blogs/blog-3.jpg",
+            "date": "October 19, 2024",
+            "title": "Turns out semi colon less style is easier and safer in TS because most",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "link": "#",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "thumbnail": "images/blogs/blog-4.jpg",
+            "date": "October 19, 2024",
+            "title": "Turns out semi colon less style is easier and safer in TS because most",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "link": "#",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "thumbnail": "images/blogs/blog-5.jpg",
+            "date": "October 19, 2024",
+            "title": "Turns out semi colon less style is easier and safer in TS because most",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "link": "#",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "thumbnail": "images/blogs/blog-6.jpg",
+            "date": "October 19, 2024",
+            "title": "Turns out semi colon less style is easier and safer in TS because most",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "link": "#",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "thumbnail": "images/blogs/blog-4.jpg",
+            "date": "October 19, 2024",
+            "title": "Turns out semi colon less style is easier and safer in TS because most",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "link": "#",
+            "isActive": true
+        }
+    ]
+}

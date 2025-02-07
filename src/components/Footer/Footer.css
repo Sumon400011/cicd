@@ -1,0 +1,137 @@
+#footer {
+    background-color: var(--bs-primary);
+    padding: 40px 30px;
+    color: white;
+}
+
+#footer .img-container {
+    max-width: 90px;
+    width: 100%;
+    background-color: #f3f3f4;
+    /* padding: 15px 20px; */
+}
+
+/* #footer .img-container img{
+      width: 100%;
+  } */
+#footer .icons-container a {
+    transition: 0.1s;
+    width: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+#footer .icons-container a:hover {
+    transform: scale(1.08);
+}
+
+#footer h5 {
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+#footer ul li {
+    margin-bottom: 8px;
+}
+
+#footer ul li a:hover {
+    text-decoration: underline;
+}
+
+#footer .footer-module .label {
+    width: 55px;
+    display: inline-block;
+}
+
+#footer .footer-module.contact p {
+    margin-bottom: 4px;
+    font-size: 15px;
+}
+
+#footer .footer-module.contact a {
+    color: white;
+}
+
+#footer .footer-module.contact a:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    background-color: #363839;
+    padding: 8px 30px;
+    color: white;
+}
+
+.copyright p {
+    font-size: 14px;
+}
+
+.copyright a {
+    font-size: 14px;
+    display: inline-block;
+    padding: 1px 10px;
+}
+
+.copyright a.terms {
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+
+/* .newsletter {
+    padding: 80px 0;
+    background: #19beda;
+  } */
+
+.newsletter.content {
+    max-width: 400px;
+    /* margin: 0 auto; */
+    text-align: left;
+    position: relative;
+    z-index: 2;
+}
+
+.newsletter.content h5 {
+    color: white;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.newsletter.content .form-control {
+    height: 45px;
+    border-color: white;
+    border-radius: 0;
+}
+
+.newsletter.content .form-control:focus {
+    box-shadow: none;
+    border: 1px solid #E61D27;
+}
+
+.newsletter.content .btn {
+    min-height: 45px;
+    border-radius: 0;
+    background: #E61D27;
+    color: #fff;
+    font-weight: 600;
+    margin-left: 15px;
+}
+
+@media (max-width: 600px) {
+    #footer {
+        padding: 34px 15px;
+    }
+
+    .copyright {
+        padding: 8px 15px;
+    }
+}
+
+@media (max-width: 450px) {
+    .icons-container {
+        flex-wrap: wrap;
+    }
+
+    .copyright {
+        padding: 8px 0px;
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "name": "We Offer Best Programs",
+    "programs": [
+        {
+            "id": 1,
+            "img": "https://cdn.pixabay.com/photo/2016/08/23/15/01/board-1614646_1280.jpg",
+            "name": "Shoulder and Knee Arthroscopy Course-2024",
+            "period": "2 years",
+            "seats": "40 seats",
+            "desc": "Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit. Ali quam quae repe llendus, harum magn am comm odi sunt excepturi",
+            "link":"#",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "img": "https://cdn.pixabay.com/photo/2023/11/16/08/44/school-8391795_1280.jpg",
+            "name": "Shoulder and Knee Arthroscopy Course-2024",
+            "period": "2 years",
+            "seats": "40 seats",
+            "desc": "Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit. Ali quam quae repe llendus, harum magn am comm odi sunt excepturi",
+            "link":"#",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "img": "https://cdn.pixabay.com/photo/2017/03/27/13/17/notebook-2178656_1280.jpg",
+            "name": "Shoulder and Knee Arthroscopy Course-2024",
+            "period": "2 years",
+            "seats": "40 seats",
+            "desc": "Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit. Ali quam quae repe llendus, harum magn am comm odi sunt excepturi",
+            "link":"#",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "img": "https://cdn.pixabay.com/photo/2017/08/03/21/11/art-2578353_1280.jpg",
+            "name": "Shoulder and Knee Arthroscopy Course-2024",
+            "period": "2 years",
+            "seats": "40 seats",
+            "desc": "Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit. Ali quam quae repe llendus, harum magn am comm odi sunt excepturi",
+            "link":"#",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "img": "https://images.unsplash.com/photo-1462536943532-57a629f6cc60?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "name": "Shoulder and Knee Arthroscopy Course-2024",
+            "period": "2 years",
+            "seats": "40 seats",
+            "desc": "Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit. Ali quam quae repe llendus, harum magn am comm odi sunt excepturi",
+            "link":"#",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "img": "https://images.unsplash.com/photo-1525017467541-995c08c663cc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "name": "Shoulder and Knee Arthroscopy Course-2024",
+            "period": "2 years",
+            "seats": "40 seats",
+            "desc": "Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit. Ali quam quae repe llendus, harum magn am comm odi sunt excepturi",
+            "link":"#",
+            "isActive": true
+        }
+    ]
+}

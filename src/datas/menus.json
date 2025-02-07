@@ -1,0 +1,30 @@
+{
+    "name": "Menu",
+    "items": [
+        {
+            "id": 1,
+            "name": "Home",
+            "route": "/",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "About",
+            "route": "/about",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Programs",
+            "route": "/programs",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Blog",
+            "route": "/blog",
+            "isActive": true
+        }
+        
+    ]
+}

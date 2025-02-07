@@ -1,0 +1,9 @@
+@media (min-width: 992px) {
+    .h-lg-560 {
+        height: 560px !important;
+    }
+}
+
+.h-400 {
+    height: 400px !important;
+}

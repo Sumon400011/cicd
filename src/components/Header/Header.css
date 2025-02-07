@@ -1,0 +1,13 @@
+nav{
+    background: none;
+    color: var(--bs-dark);
+}
+.nav-item{
+    font-weight: 600;
+}
+.company-logo{
+    max-width: 80px;
+}
+.nav-link.router-link-exact-active{
+    color: var(--bs-primary);
+}

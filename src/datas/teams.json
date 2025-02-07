@@ -1,0 +1,69 @@
+{
+    "name": "Meet Our Professionals",
+    "teams": [
+        {
+            "id": 1,
+            "img": "images/doctors/doctor-1.jpg",
+            "name": "Prof. Dr. Pervez Ahsan",
+            "position": "Consultant",
+            "chamber": "IBN SINA Medical College",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "img": "images/doctors/doctor-2.jpg",
+            "name": "Prof. Dr. Md. Hasan Masud",
+            "position": "Consultant",
+            "chamber": "IBN SINA Medical College",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "img": "images/doctors/doctor-3.jpg",
+            "name": "John Twist",
+            "position": "Architect - Designer",
+            "chamber": "IBN SINA Medical College",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "img": "images/doctors/doctor-4.jpg",
+            "name": "Devid Gray",
+            "position": "Photographer",
+            "chamber": "IBN SINA Medical College",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "img": "images/doctors/doctor-5.jpg",
+            "name": "Mary Insy",
+            "position": "Architect - Designer",
+            "chamber": "IBN SINA Medical College",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "img": "images/doctors/doctor-6.jpg",
+            "name": "Miako Slavko",
+            "position": "Architect - Designer",
+            "chamber": "IBN SINA Medical College",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "img": "images/doctors/doctor-7.jpg",
+            "name": "Miako Slavko",
+            "position": "Architect - Designer",
+            "chamber": "IBN SINA Medical College",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "img": "images/doctors/doctor-8.jpg",
+            "name": "Mery Spear",
+            "position": "Photographer",
+            "chamber": "IBN SINA Medical College",
+            "isActive": true
+        }
+    ]
+}
