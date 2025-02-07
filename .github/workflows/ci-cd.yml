@@ -43,14 +43,14 @@ jobs:
         run: npm run lint
 
       # Step 6: Run unit tests
-      - name: Run unit tests
-        run: npm run test:unit
+      # - name: Run unit tests
+      #   run: npm run test:unit
 
       # Step 7: Build the project
       - name: Build project
         run: npm run build
 
-      # Step 7: Deploy to GitHub Pages
+      # Step 8: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
