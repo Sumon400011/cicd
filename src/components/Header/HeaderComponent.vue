@@ -1,4 +1,4 @@
-<template lang="">
+<template>
 	<nav class="navbar navbar-expand-lg bg-body-tertiary sticky-top">
 		<div class="container">
 			<RouterLink to="/" class="navbar-brand" href="#">

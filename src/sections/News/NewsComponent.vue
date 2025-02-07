@@ -1,4 +1,4 @@
-<template lang="">
+<template>
     <div class="news-section section-spacing">
         <h1 class="text-center fw-bold">News & Articles</h1>
         <div class="container pt-10">
@@ -37,7 +37,3 @@
     })
 
 </script>
-
-<style lang="css">
-    
-</style>

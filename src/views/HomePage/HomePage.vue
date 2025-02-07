@@ -1,23 +1,23 @@
 <template>
     <div class="homepage">
         <HomeBanner />
-        <About />
-        <Programs />
-        <Faculties />
-        <Gallery />
-        <News />
-        <Contact />
+        <AboutComponent />
+        <ProgramsComponent />
+        <FacultiesComponent />
+        <GalleryComponent />
+        <NewsComponent />
+        <ContactComponent />
     </div>
 </template>
 
 <script setup>
     import HomeBanner from '../../sections/HomeBanner/HomeBanner.vue';
-    import Gallery from '../../sections/Gallery/Gallery.vue';
-    import News from '../../sections/News/News.vue';
-    import Contact from '../../sections/Contact/Contact.vue';
-    import Programs from '../../sections/Programs/Programs.vue';
-    import About from '../../sections/About/About.vue';
-    import Faculties from '../../sections/Faculties/Faculties.vue';
+    import GalleryComponent from '../../sections/Gallery/GalleryComponent.vue';
+    import NewsComponent from '../../sections/News/NewsComponent.vue';
+    import ContactComponent from '../../sections/Contact/ContactComponent.vue';
+    import ProgramsComponent from '../../sections/Programs/ProgramsComponent.vue';
+    import AboutComponent from '../../sections/About/AboutComponent.vue';
+    import FacultiesComponent from '../../sections/Faculties/FacultiesComponent.vue';
    
 </script>
 

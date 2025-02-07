@@ -42,7 +42,9 @@ jobs:
       - name: Run linting
         run: npm run lint
 
- 
+      # Step 6: Run unit tests
+      - name: Run unit tests
+        run: npm run test:unit
 
       # Step 7: Build the project
       - name: Build project
