@@ -1,6 +1,7 @@
 <template>
     <div class="homepage">
         <HomeBanner />
+        
         <AboutComponent />
         <ProgramsComponent />
         <FacultiesComponent />
